@@ -4,7 +4,7 @@ jobs:
     docker:
       - image: wecs/circle-ci-gcloud-node:0.1.0
         auth:
-          username: mezlinihelmi@yahoo.fr  
+          dockerid: 29043990 
           password: 55060385hH$#  
     working_directory: ~/workspace
     environment:
