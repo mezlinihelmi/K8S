@@ -1,3 +1,4 @@
+# !/bin/bash
 set -e
 echo "Deploying to ${DEPLOYMENT_ENVIRONMENT}"
 echo $ACCOUNT_KEY_STAGING > service_key.txt
